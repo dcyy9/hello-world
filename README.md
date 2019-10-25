@@ -7,3 +7,4 @@ the forth time at15:29.
 create a NEW branch is QUICK at 16:22.
 connect native branch and origin at 20:00.
 connect2 at 20:04.
+rebase test1 at 20:50.
